@@ -1,0 +1,34 @@
+langchain
+langchain-experimental
+langgraph
+langgraph-prebuilt
+langgraph-sdk
+langgraph-supervisor
+langsmith
+langchain-openai
+langchain-groq
+langchain-ollama
+langchain-chroma
+langchain-community
+langchain-core
+notebook
+fastapi
+uvicorn
+faiss-cpu
+chromadb
+bs4
+python-dotenv
+pypdf
+streamlit
+langchain-tavily
+wikipedia
+trustcall
+langgraph-cli[inmem]
+ddgs # duckduckgo_search has been renamed to ddgs
+langgraph-checkpoint-sqlite
+langgraph_supervisor
+langchain-mcp-adapters
+# SSL Certificate Management
+pip-system-certs
+langchain-aws
+fastmcp
